@@ -16,3 +16,15 @@
 
 * [x] 2-1 NodeJS 是什么
 * [x] 2-2 NodeJS 究竟好在哪里
+
+**第3章 环境 & 调试**
+
+* [x] 3-1 环境 & 调试 ——CommonJS1
+* [x] 3-2 环境 & 调试 ——CommonJS2
+* [x] 3-3 环境 & 调试 ——CommonJS3
+* [x] 3-4 环境 & 调试——引用系统内置模块&引用第三方模块
+* [x] 3-5 环境 & 调试——module.exports 与 exports 的区别
+* [x] 3-6 环境 & 调试——global变量
+* [x] 3-7 环境 & 调试——process进程
+* [x] 3-8 环境 & 调试——debug1 
+* [x] 3-9 环境 & 调试——debug2
