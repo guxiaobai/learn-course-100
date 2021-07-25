@@ -11,3 +11,4 @@
 **第4章 Webpack 的高级概念**
 
 * [x] 4-1 Tree Shaking 概念详解
+* [x] 4-2 Develoment 和 Production 模式的区分打包
